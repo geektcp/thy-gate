@@ -10,11 +10,11 @@
             <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
         </license>
     </licenses>
-    <url>https://github.com/geektcp/thy-core</url>
+    <url>https://github.com/geektcp/thy-gate</url>
     <scm>
-        <connection>scm:git:https://github.com/geektcp/thy-common</connection>
-        <developerConnection>scm:git:https://github.com/geektcp/thy-common.git</developerConnection>
-        <url>git:https://github.com/geektcp/thy-common.git</url>
+        <connection>scm:git:https://github.com/geektcp/thy-gate</connection>
+        <developerConnection>scm:git:https://github.com/geektcp/thy-gate.git</developerConnection>
+        <url>git:https://github.com/geektcp/thy-gate.git</url>
     </scm>
     <developers>
         <developer>
@@ -38,7 +38,7 @@
         <dependency>
             <groupId>com.geektcp.common</groupId>
             <artifactId>thy-core</artifactId>
-            <version>1.0.8.RELEASE</version>
+            <version>1.0.0.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
